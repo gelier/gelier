@@ -15,7 +15,7 @@
 - 🌐 &nbsp; HTML | XML 
 - 🛢 &nbsp; MySQLWorkbench | Firebase | Xampp
 - 🔧 &nbsp; Xcode | IntelliJ | Visual Studio code | Eclipse | Git 
-- 🖥 &nbsp; Adobe Xd | Photoshop |  |
+- 🖥 &nbsp; Photoshop
 
 <br>
 
